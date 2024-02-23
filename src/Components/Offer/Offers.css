@@ -1,0 +1,11 @@
+.offers{
+    width:100%;
+    height: 60vh;
+    display: flex;
+    margin: auto;
+    margin-bottom: 20%;
+    background: linear-gradient(180deg,#fde1ff 0%,#e1ffea22 60%)
+}
+.heroimg img{
+    margin-left: 3%;
+}

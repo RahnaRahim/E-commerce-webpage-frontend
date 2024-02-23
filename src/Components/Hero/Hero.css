@@ -1,0 +1,13 @@
+.hero{
+    height:100vh;
+    background: linear-gradient(180deg,#fff9ff,#ffffff22 60%);
+    display: flex;
+    margin-bottom: 2%;
+}
+.heroimg{
+background-color: white;
+align-items: center;
+}
+.heroimg img{
+    margin-left: 3%;
+}
